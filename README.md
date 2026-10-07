@@ -35,57 +35,57 @@
 
 ### 1. Diagonal Difference
 - **Topic:** 2D Arrays / Matrices
-- **Source Code:** [solution.c](01-Diagonal-Difference/solution.c)
+- **Source Code:** [solution.c](HackerRank/01-Diagonal-Difference/solution.c)
 - **Time Complexity:** O(N)
 - **Space Complexity:** O(1)
 - **Submission Evidence:**
-  ![Diagonal Difference](ScreenShots/diagonal_difference.png)
+  ![Diagonal Difference](HackerRank/ScreenShots/diagonal_difference.png)
 
 ---
 
 ### 2. Dynamic Array
 - **Topic:** Data Structures / Vectors
-- **Source Code:** [solution.c](02-Dynamic-Array/solution.c)
+- **Source Code:** [solution.c](HackerRank/02-Dynamic-Array/solution.c)
 - **Time Complexity:** O(N + Q)
 - **Space Complexity:** O(N)
 - **Submission Evidence:**
-  ![Dynamic Array](ScreenShots/dynamic_array.png)
+  ![Dynamic Array](HackerRank/ScreenShots/dynamic_array.png)
 
 ---
 
 ### 3. Time Conversion
 - **Topic:** Strings / Logic
-- **Source Code:** [solution.c](03-Time-Conversion/solution.c)
+- **Source Code:** [solution.c](HackerRank/03-Time-Conversion/solution.c)
 - **Time Complexity:** O(1)
 - **Space Complexity:** O(1)
 - **Submission Evidence:**
-  ![Time Conversion](ScreenShots/time_conversion.png)
+  ![Time Conversion](HackerRank/ScreenShots/time_conversion.png)
 
 ---
 
 ### 4. Compare the Triplets
 - **Topic:** Basic Implementation
-- **Source Code:** [solution.c](04-Compare-the-Triplets/solution.c)
+- **Source Code:** [solution.c](HackerRank/04-Compare-the-Triplets/solution.c)
 - **Time Complexity:** O(1)
 - **Space Complexity:** O(1)
 - **Submission Evidence:**
-  ![Compare the Triplets](ScreenShots/compare_the_triplets.png)
+  ![Compare the Triplets](HackerRank/ScreenShots/compare_the_triplets.png)
 
 ---
 
 ### 5. Sparse Arrays
 - **Topic:** Hash Maps / Strings
-- **Source Code:** [solution.c](05-Sparse-Arrays/solution.c)
+- **Source Code:** [solution.c](HackerRank/05-Sparse-Arrays/solution.c)
 - **Time Complexity:** O(N + Q)
 - **Space Complexity:** O(N)
 - **Submission Evidence:**
-  ![Sparse Arrays](ScreenShots/sparse_arrays.png)
+  ![Sparse Arrays](HackerRank/ScreenShots/sparse_arrays.png)
 
 ---
 
 ## HackerRank Badges
 
-![HackerRank Badge](ScreenShots/hackerrank_badge.png)
+![HackerRank Badge](HackerRank/ScreenShots/hackerrank_badge.png)
 
 ---
 
